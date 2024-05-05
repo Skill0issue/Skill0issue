@@ -13,7 +13,7 @@
     <ul style="list-style-type: none; padding-left: 0;">
       <li>🌱 I’m currently learning <strong>Next.js, TypeScript, Backend</strong></li>
       <li>👨‍💻 All of my projects are available at <a href="https://github.com/Skill0issue">GitHub</a></li>
-      <li>💬 Ask me about <strong>React/Vite, Vue, GSAP, Tailwind, Sass</strong></li>
+      <li>💬 Ask me about <strong>React/Vite, GSAP, Tailwind</strong></li>
       <li>📫 Reach out to me at <strong>niharchelamakuri949243@gmail.com</strong></li>
       <li>⚡ <strong>I code in the dark to repel bugs 🥲</strong></li>
     </ul>
@@ -34,7 +34,7 @@
 <table style="width: 100%; border:0px solid #0D1117;">
   <tr style="border:0px solid #0D1117;">
     <td style="width: 50%; text-align: left; padding: 0;border:0px solid #0D1117;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skill0issue&show_icons=true&locale=en&theme=tokyonight" alt="skill0issue" style="display: block; max-width: 100%; height: auto; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skill0issue&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="skill0issue" style="display: block; max-width: 100%; height: auto; margin: 0;">
     </td>
     <td style="width: 50%; text-align: right; padding: 0;border:0px solid #0D1117;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=skill0issue&show_icons=true&locale=en&theme=tokyonight" alt="skill0issue" style="display: block; max-width: 100%; height: auto; margin: 0;">
