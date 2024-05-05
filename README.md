@@ -1,7 +1,7 @@
 <img class="post_media_photo image" src="https://64.media.tumblr.com/88ee0209dbd7813e54e4c5d8772a6d30/d8f8c3e831536878-70/s1280x1920/532a362256a29d02c902399c18f0a1daf56448cf.gifv" alt="image" width="100%">
 <h1 align="center">Hey 👋, I'm Nihar Kartiekya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Hello" width="400" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+<img align="right" alt="Hello" width="400" height="420" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=skill0issue&label=Profile%20views&color=0e75b6&style=flat" alt="skill0issue" />
 </p>
